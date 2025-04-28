@@ -4,3 +4,5 @@ The project's aim is a classification of 3 training types: Calisthenics athletes
 The project: https://colab.research.google.com/drive/1DwVXNd7QHWebGHY6woX5RwSzK0wirnnh#scrollTo=c2ENT0pHh827
 
 The dataset is saved in Hugging Face: https://huggingface.co/OfryH/Training_types_project
+
+The project includes the code itself and full documentation.
